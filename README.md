@@ -7,3 +7,5 @@
 `Veeam-Rep-Stat -UseList -Path ".\Veeam-Rep-List.txt"` указать путь к списку (в примере, путь по умолчанию) \
 `Veeam-Rep-Stat -SizeRepository` \
 `Veeam-Rep-Stat -SizeDirectory`
+
+![Image alt](https://github.com/Lifailon/Veeam-Rep-Stat/blob/rsa/Screen/Example-1.0.jpg)

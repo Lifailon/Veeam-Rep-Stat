@@ -1,5 +1,7 @@
 # Veeam-Rep-Stat
 
+![Image alt](https://github.com/Lifailon/Veeam-Job-Stat/blob/rsa/Screen/Logo.jpg)
+
 Модуль для просмотра и мониторинга пространства репозиториев Veeam, и их доступности. По умолчанию, для получения списка репозиториев применяется модуль **Veeam.Backup.PowerShell**
 
 **Ключи:** \

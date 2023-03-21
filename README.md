@@ -12,4 +12,4 @@
 
 ![Image alt](https://github.com/Lifailon/Veeam-Rep-Stat/blob/rsa/Screen/Example-1.0.jpg)
 
-<img align="right" width="200" src="https://www.rd.com/wp-content/uploads/2018/02/25_Hilarious-Photos-that-Will-Get-You-Through-the-Week_280228817_Doty911.jpg" />
+<img align="right" width="200" src="https://github.com/Lifailon/RSA/blob/rsa/Image/Logo/Telegram-Button.ico"(https://t.me/kup57)/>

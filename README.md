@@ -12,4 +12,4 @@
 
 ![Image alt](https://github.com/Lifailon/Veeam-Rep-Stat/blob/rsa/Screen/Example-1.0.jpg)
 
-<img align="right" width="200" src="https://github.com/Lifailon/RSA/blob/rsa/Image/Logo/Telegram-Button.ico" />
+<img align="right" src="https://github.com/Lifailon/RSA/blob/rsa/Image/Logo/Telegram-Button.ico" />
